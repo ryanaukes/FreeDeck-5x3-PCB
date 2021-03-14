@@ -8,7 +8,7 @@ You will need:
 - 15x 6x6x4.3mm buttons
 - SPI-SDcard Reader
 
-The firmware and configurator are developed by Koriwi (https://github.com/FreeYourStream/freedeck-hardware/commits?author=koriwi) and can be found here:
+The firmware and configurator are developed by Koriwi / FreeYourStream UG (https://github.com/FreeYourStream) and can be found here:
 - Firmware: https://github.com/FreeYourStream/freedeck-ino
 - Configurator: https://github.com/FreeYourStream/freedeck-configurator
 

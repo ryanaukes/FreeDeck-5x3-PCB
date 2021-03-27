@@ -1,5 +1,5 @@
 # FreeDeck-5x3-PCB
-This is the PCB design for the 5x3 FreeDeck
+This is my PCB design for the 5x3 FreeDeck
 
 You will need:
 - Arduino Pro Micro (32u4 16mhz 5v)

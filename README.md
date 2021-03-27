@@ -8,8 +8,11 @@ You will need:
 - 15x 6x6x4.3mm buttons
 - SPI-SDcard Reader
 
-The firmware and configurator are developed by Koriwi / FreeYourStream UG (https://github.com/FreeYourStream) and can be found here:
-- Firmware: https://github.com/FreeYourStream/freedeck-ino (my modified firmware with the correct pins will be uploaded to a separate github repository soon!)
+My custom version of the firmware can be found here: https://github.com/ryanaukes/FreeDeck-5x3-Firmware
+The original version will not work because of the pins and the order in which the buttons and screens are connected to the multiplexers.
+
+The original firmware and configurator are developed by Koriwi / FreeYourStream UG (https://github.com/FreeYourStream) and can be found here:
+- Firmware: https://github.com/FreeYourStream/freedeck-ino
 - Configurator: https://github.com/FreeYourStream/freedeck-configurator
 
 If you have any questions, feedback or ideas for improvement, please let me know!

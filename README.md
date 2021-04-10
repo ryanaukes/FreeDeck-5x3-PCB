@@ -1,6 +1,9 @@
 # FreeDeck-5x3-PCB
 This is my PCB design for the 5x3 FreeDeck
 
+DISCLAIMER:
+Currently I am having problems with one of my builds. I am not sure what the problem is. Soon some other people will try making a 5x3 FreeDeck with this pcb. Jopefully they can help me solve the problem. Probably there is just something wrong with my particular build, but it might also be a power issue when using 15 screens.
+
 You will need:
 - Arduino Pro Micro (32u4 16mhz 5v)
 - 2x 74HC4067 Multiplexer Breakout Board

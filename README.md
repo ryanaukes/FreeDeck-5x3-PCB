@@ -18,10 +18,8 @@ The firmware and configurator are developed by Koriwi / FreeYourStream UG (https
 To make this PCB work, you will need to make sure that the variables in the settings.h file of the firmware are set to:
 - #define BD_COUNT 15
 - #define CUSTOM_ORDER // Make sure this is uncommented!
-- #define ADDRESS_TO_SCREEN \
-	  { 11, 6, 1, 12, 7, 2, 13, 8, 3, 14, 9, 4, 15, 5, 10 }
-- #define ADDRESS_TO_BUTTON \
-	  { 11, 6, 1, 12, 7, 2, 3, 8, 13, 14, 15, 10, 5, 9, 4 }
+- #define ADDRESS_TO_SCREEN { 11, 6, 1, 12, 7, 2, 13, 8, 3, 14, 9, 4, 15, 5, 10 }
+- #define ADDRESS_TO_BUTTON { 11, 6, 1, 12, 7, 2, 3, 8, 13, 14, 15, 10, 5, 9, 4 }
 - #define BUTTON_PIN 5
 - #define S0_PIN 6
 - #define S1_PIN 7

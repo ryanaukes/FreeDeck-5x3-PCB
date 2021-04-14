@@ -11,9 +11,11 @@ You will need:
 - 15x 6x6x4.3mm buttons
 - SPI-SDcard Reader
 
-The firmware and configurator are developed by Koriwi / FreeYourStream UG (https://github.com/FreeYourStream) and can be found here:
-- Firmware: https://github.com/FreeYourStream/freedeck-ino
+The firmware and configurator are developed by Koriwi / FreeYourStream UG (https://github.com/FreeYourStream).
+For this PCB to work, you need the development version of the firmware. The firmware and configurator can be found here:
+- Firmware: https://github.com/FreeYourStream/freedeck-ino/tree/develop
 - Configurator: https://github.com/FreeYourStream/freedeck-configurator
+
 
 To make this PCB work, you will need to make sure that the variables in the settings.h file of the firmware are set to:
 - #define BD_COUNT 15

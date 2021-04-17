@@ -12,8 +12,8 @@ You will need:
 - SPI-SDcard Reader
 
 The firmware and configurator are developed by Koriwi / FreeYourStream UG (https://github.com/FreeYourStream).
-For this PCB to work, you need the development version of the firmware. The firmware and configurator can be found here:
-- Firmware: https://github.com/FreeYourStream/freedeck-ino/tree/develop
+The firmware and configurator can be found here:
+- Firmware: https://github.com/FreeYourStream/freedeck-ino
 - Configurator: https://github.com/FreeYourStream/freedeck-configurator
 
 
